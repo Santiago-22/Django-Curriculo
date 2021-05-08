@@ -1,10 +1,5 @@
-# Pequeno portfólio feito com o django feito para a FlipOn🛴 
+# Pequeno portfólio feito com o django
 
-<h2>Como rodar</h2>
-  <p><strong>1 - Para rodar o código, primeiro crie um ambiente virtual</strong></p>
-  <p><strong>2 - Instale as bibliotecas no arquivo requirements.txt</strong></p>
-  <p><strong>3 - No terminal digite: python manage.py runserver</p>
-  <p><strong>4 - O site será hosteadao no servidor local</p></strong>
 
 <h2>Tecnologias</h2>
 <h3>Nesse projeto foram utilizados<h3>
